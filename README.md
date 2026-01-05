@@ -14,4 +14,3 @@ Run the shell script to backup FASTA files:
 cd scripts
 ./cleanup.sh
 Maintained by Jasmin
-Maintained by Jasmin
